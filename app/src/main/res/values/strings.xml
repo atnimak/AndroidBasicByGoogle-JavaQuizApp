@@ -1,0 +1,63 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Java Quiz App</string>
+    <string name="question1">Беззнаковое целое число представляющее собой символ</string>
+    <string name="answer1_1">int</string>
+    <string name="answer1_2">char</string>
+    <string name="answer1_3">byte</string>
+    <string name="answer1_4">short</string>
+
+    <string name="question2">Целочисленный примитивный тип с диапазоном значений от -32768 до 32767</string>
+    <string name="answer2_1">int</string>
+    <string name="answer2_2">char</string>
+    <string name="answer2_3">byte</string>
+    <string name="answer2_4">short</string>
+
+    <string name="question3">Диапазон значений примитивного типа byte</string>
+    <string name="answer3_1">-128 до 127</string>
+    <string name="answer3_2">-256 до 257</string>
+    <string name="answer3_3">-64 до 63</string>
+
+    <string name="question4">Размер примитивного типа int в битах</string>
+    <string name="answer4_1">16</string>
+    <string name="answer4_2">32</string>
+    <string name="answer4_3">64</string>
+    <string name="answer4_4">128</string>
+
+    <string name="question5">Размер примитивного типа short в битах</string>
+    <string name="answer5_1">8</string>
+    <string name="answer5_2">16</string>
+    <string name="answer5_3">32</string>
+    <string name="answer5_4">64</string>
+
+    <string name="question6">Размер примитивного типа long в битах</string>
+    <string name="answer6_1">32</string>
+    <string name="answer6_2">64</string>
+    <string name="answer6_3">128</string>
+    <string name="answer6_4">256</string>
+
+    <string name="question7">Примитивный тип с плавающей точкой размером 64 бита</string>
+    <string name="answer7_1">int</string>
+    <string name="answer7_2">double</string>
+    <string name="answer7_3">byte</string>
+    <string name="answer7_4">short</string>
+
+    <string name="question8">Диапазон значений примитивного типа  boolean</string>
+    <string name="answer8_1">0/1</string>
+    <string name="answer8_2">yes/no</string>
+    <string name="answer8_3">true/false</string>
+
+    <string name="question9">Максимальное значение примитивного типа float</string>
+    <string name="answer9_1">1.7E+38</string>
+    <string name="answer9_2">3.4E+38</string>
+    <string name="answer9_3">2.5E+56</string>
+
+    <string name="question10">Минимальное значение примитивного типа double</string>
+    <string name="answer10_1">-2.5E+38</string>
+    <string name="answer10_2">-1.7E+308</string>
+    <string name="answer10_3">-3.4E+38</string>
+
+    <string name="button_check">ПРОВЕРИТЬ</string>
+    <string name="need_ask_toast">Нужно ответить на все вопросы!</string>
+    <string name="results">Hello mothefucker! You have\u0020<xliff:g example="5" id="results">%d</xliff:g>\u0020 points</string>
+
+</resources>
